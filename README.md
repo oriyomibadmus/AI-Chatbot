@@ -52,6 +52,8 @@ You can start a new conversation with the bot in each chat room.
 
 ### Video Explainer
 
+![ezgif-1-8622ec70ca](https://user-images.githubusercontent.com/20837551/227766514-a9bb6f19-0f96-4b0d-8414-86998e178c47.gif)
+
 
 ---
 
