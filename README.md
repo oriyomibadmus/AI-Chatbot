@@ -76,10 +76,3 @@ Backend: NodeJS, ExpressJS, OpenAi API
 Usage.
 
 ---
-
-## Contact
-
-Please feel free to contact me via my email badmus.oriyomi1@gmail.com or through my LinkedIn profile 
-linkedin.com/in/oriyomibadmus .
-
----
